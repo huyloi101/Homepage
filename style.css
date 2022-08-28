@@ -27,7 +27,7 @@ img {
 
 nav {
     color: #a9b1d6;
-    background-color: #13131e;
+    background-color: #000000;
     display: grid;
     grid-template-columns: auto auto auto auto;
     margin-top: 0px;
@@ -83,7 +83,7 @@ a {
 }
 
 input {
-    background-color: #13131e;
+    background-color: #000000;
     font: 16px 'Ubuntu Mono', monospace;
     color: #a9b1d6;
     height: 100%;
