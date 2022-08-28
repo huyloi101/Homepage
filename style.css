@@ -69,7 +69,7 @@ div.taskbar {
 
 .clock-box {
     position: relative;
-    color: #a9b1d6;
+    color: #000000;
     background-color: #181825;
     flex-direction: row;
     display: flex;
