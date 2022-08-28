@@ -19,7 +19,7 @@ img {
     height: 230px;
     width: 630px;
     object-fit: cover;
-    border: 2px solid #a9b1d6;
+    border: 2px solid #D08770;
     /* border-bottom: none; */
     margin-bottom: -3px;
 
@@ -32,7 +32,7 @@ nav {
     grid-template-columns: auto auto auto auto;
     margin-top: 0px;
     text-align: center;
-    border: 2px solid #a9b1d6;
+    border: 2px solid #D08770;
     border-top: none;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -88,7 +88,7 @@ input {
     color: #a9b1d6;
     height: 100%;
     width: 100%;
-    border: 2px solid #a9b1d6;
+    border: 2px solid #D08770;
     border-top: none;
     text-align: center;
     margin-top: 0px;
